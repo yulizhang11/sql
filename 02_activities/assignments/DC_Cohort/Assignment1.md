@@ -213,4 +213,12 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 ```
 Your thoughts...
+In my day-to-day life, there are many value systems being embedded in these databases and data systems. For example, in many databases we encounter, there is this expectectation of a “home address”, ignoring homeless individuals. Many systems also treat gender as a binary field (male/female), thereby forcing non-binary individuals into incorrect categories.
+
+A more personal example is my first name, which is Chinese and contains a space. I sometimes run into issues when typing my first name into online forms because some systems expect a first name to be a single, uninterrupted word. This small technical limitation reflects how databases are often designed with certain cultural assumptions built in, leaving little room for names that don’t fit Western naming conventions. 
+
+
+These contexts reflects the social values of its creators and these data systems are built on what counts as normal in their eyes. Recognizing fairness and inclusivity early in design allows them to accommodate more people instead of forcing everyone to fit a predefined category.
+
+
 ```
